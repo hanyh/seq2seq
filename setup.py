@@ -23,7 +23,7 @@ setup(
     version="0.1",
     install_requires=[
         "numpy",
-        "matplotlib",
+    #  "matplotlib",
         "pyyaml",
         "pyrouge"
     ],
